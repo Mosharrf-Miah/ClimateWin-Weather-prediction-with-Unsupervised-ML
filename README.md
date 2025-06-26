@@ -1,4 +1,4 @@
-# ClimateWin weather prdeictions with optimised Unsupervised ML
+# ClimateWin Weather Predictions With Optimised Unsupervised ML
 
 ## Project Summary
 ClimateWin are a non-profit organisaation based in Europe. With the use of optimised Machine learning models they are looking to better predicted weather trends around Europe, as well as weather conditions which might deviate from the norm.

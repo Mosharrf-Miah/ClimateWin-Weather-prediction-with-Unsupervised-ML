@@ -1,24 +1,31 @@
 # ClimateWin weather prdeictions with optimised Unsupervised ML
 
 ## Project Summary
-ClimateWin are a non-profit organisaation based in Europe who are extremely concerned with the change in climate and increase in extreme weather condition over the 10-20 years. Using historical data from 18 different weather stations across Europe to create a machine learning alogrithm which will predict future weather conditions.
+ClimateWin are a non-profit organisaation based in Europe. With the use of optimised Machine learning models they are looking to better predicted weather trends around Europe, as well as weather conditions which might deviate from the norm.
 
 ## Key Questions
 
-1. How is machine learning currently used, and is it applicable to weather data?
+1. Can we identify Weather conditions which deviate from the norm?
 
-2. Are there any ethical concerns specific to this project, beyond general issues with AI and machine learning?
+2. Can we use the current climate trends to predict future weather conditions?
 
-3. What are the historical temperature extremes?
+3. What are the effects of climate change on the future and can it be changed?
 
-4. Can machine learning predict weather conditions on a given day?
 
 
 ## Data 
 
 18 weather stations across Europe. The weather stations have been collecting data from the late 1800s to 2022. The dataset includes daily values such as temperature, wind speed, snow, global radiation.
+The below addition data is also required 
+
+1. Radar Imaginary
+2. Extreme Weather
+3. Real Time Weather Conditions
 
 
 ## Tools
 1. Python
-2. Powerpoint
+   - CNN
+   - GAN
+   - Random Forest
+3. Powerpoint
